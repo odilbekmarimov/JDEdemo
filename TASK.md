@@ -2,6 +2,7 @@
 
 This project guides you to generate realistic fake ERP data, model relationships in Power BI, and build dashboards for **General Ledger**, **Sales**, and **Inventory**, without using JD Edwards table codes.
 
+---
 
 ## 1. Project Overview
 
@@ -17,6 +18,7 @@ After generating your data, you must:
 2. Create dashboards for General Ledger, Sales, and Inventory.
 3. Add standard financial and operational KPIs.
 
+---
 
 ## 2. Required Datasets (Business Names Only)
 
@@ -46,6 +48,7 @@ Below are the datasets you must generate.
    * DocumentNumber
    * Explanation
 
+---
 
 ### B. Sales
 
@@ -81,6 +84,7 @@ Below are the datasets you must generate.
    * Category
    * UnitOfMeasure
 
+---
 
 ### C. Inventory
 
@@ -102,6 +106,7 @@ Below are the datasets you must generate.
    * Quantity
    * Amount
 
+---
 
 ## 3. Your Tasks
 
@@ -113,6 +118,7 @@ You will generate realistic fake ERP data using the required datasets described 
 
 Think like an analyst working inside an ERP system.
 
+---
 
 ## 4. What You Must Produce
 
@@ -123,15 +129,14 @@ You will prepare the following:
 3. Basic & Advanced calculations
 4. Clear labeling and organized fields
 
+---
 
-## 5. Deliverables
+In this project, you must also refer to the **QuickLaunch for JD Edwards PDF** provided to you. Use it as a reference for creating realistic visual ideas, KPIs, and dashboard layouts for General Ledger, Sales, and Inventory.
 
-You must submit:
+For understanding how JD Edwards data is structured, refer to the **official Oracle JD Edwards documentation**:
 
-1. All datasets as CSV files
-2. A complete Power BI file (.pbix)
-3. All relationships configured
-4. All visuals created as shown
-5. DAX formulas for financial and sales metrics
+* [JD Edwards EnterpriseOne Naming Conventions](https://docs.oracle.com/cd/E17984_01/doc.898/e14698/naming_conventions.htm)
+* [Table Design and Naming Guide](https://docs.oracle.com/en/applications/jd-edwards/development-tools/9.2.x/eottd/naming-tables.html)
+* [Program and Table Naming Conventions](https://docs.oracle.com/en/applications/jd-edwards/supply-chain-manufacturing/9.2/eoadi/understanding-program-and-table-naming-conventions.html)
 
-
+These sources will help you understand how to name, structure, and connect your data elements when creating the fake ERP dataset and dashboards.
